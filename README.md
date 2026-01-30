@@ -18,7 +18,7 @@
 
 1. 确保您的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展
 2. 点击以下链接安装脚本：
-   - [安装 Google Maps GL CN Fix](https://raw.githubusercontent.com/yourusername/Gmap_CN/main/Gmap_cn_fix.js)
+   - [安装 Google Maps GL CN Fix](https://raw.githubusercontent.com/mycl112/Gmap_CN/main/Gmap_cn_fix.js)
 3. 确认安装并启用脚本
 
 ### 方法二：手动安装
